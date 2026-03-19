@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "base_track": "なにやってもうまくいかない",
+  "base_artist": "meiyo",
+  "createdAt": "2026-03-19T06:50:35.775881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/01_なにやってもうまくいかない_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない feat.asmi",
+      "artist": "meiyo feat. asmi & 100回嘔吐",
+      "has_synced": true,
+      "path": "select/02_なにやってもうまくいかない_feat.asmi_meiyo_feat._asmi_&_100回嘔吐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない [feat. asmi]",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/03_なにやってもうまくいかない_[feat._asmi]_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/04_なにやってもうまくいかない_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない feat.asmi",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/05_なにやってもうまくいかない_feat.asmi_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない - Nothing's Working Out",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/06_なにやってもうまくいかない_-_Nothing's_Working_Out_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない - Nothing's Working Out (feat. asmi)",
+      "artist": "meiyo",
+      "has_synced": false,
+      "path": "select/07_なにやってもうまくいかない_-_Nothing's_Working_Out_(feat._asmi)_meiyo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "【meiyo】なにやってもうまくいかない【MV】",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/08_【meiyo】なにやってもうまくいかない【MV】_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/09_なにやってもうまくいかない_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "なにやってもうまくいかない",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/10_なにやってもうまくいかない_Yuu..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nothing's Working Out [なにやってもうまくいかない]",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/11_Nothing's_Working_Out_[なにやってもうまくいかない]_meiyo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なにやってもうまくいかない",
+      "artist": "meiyo",
+      "has_synced": false,
+      "path": "select/pl_01_なにやってもうまくいかない_meiyo.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "なにやってもうまくいかない",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/localdb_01_なにやってもうまくいかない_meiyo.lrc",
+      "repo_name": "PjG0r-9HQBs"
+    }
+  ]
+}
